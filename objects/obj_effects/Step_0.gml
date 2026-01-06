@@ -1,0 +1,1 @@
+image_blend = !global.effects ? c_gray : c_white;
